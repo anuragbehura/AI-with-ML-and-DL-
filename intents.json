@@ -159,33 +159,6 @@
             ]
         },
         {
-            "tag": "creator",
-            "patterns": [
-                "Who is your creator?",
-                "who created you",
-                "who is your father",
-                "who is your daddy"
-            ],
-            "responses": [
-                "That would be you Mr. Anurag",
-                "I was created by Mr. Anurag",
-                "Mr. Anurag is my creator"
-            ]
-        },
-        {
-            "tag": "myself",
-            "patterns": [
-                "Tell me about Mr. Anurag?",
-                "Who is Mr. Anurag",
-                "Mr. Anurag profile"
-            ],
-            "responses": [
-                "A very intelligent being who created me",
-                "My creator, and he is a really intelligent man",
-                "A wise and intelligent man"
-            ]
-        },
-        {
             "tag": "God",
             "patterns": [
                 "Do you know god?",
@@ -211,7 +184,6 @@
             ],
             "responses": [
                 "How do you make holy water? you boil the hell out of it",
-                "what kind of bees make milk instead of honey?Boobies",
                 "Did you hear oxygen went on a date with potassium? A: It went OK."
             ]
         },
